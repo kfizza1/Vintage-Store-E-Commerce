@@ -47,6 +47,5 @@ This project includes product listing, a functional cart system, a testimonial c
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kfizza1/Vintage-Store-E-Commerce.git
+- Live Demo :
+  ("https://kfizza1.github.io/Vintage-Store-E-Commerce/")
